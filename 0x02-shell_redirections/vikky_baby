@@ -1,6 +1,4 @@
-total 120
-drwxr-xr-x 2 root root 4096 Sep  5 13:54 .
-drwxr-xr-x 6 root root  141 Sep  5 06:23 ..
+total 124
 -rwxr-xr-x 1 root root   30 Sep  5 06:30 0-hello_world
 -rwxr-xr-x 1 root root   56 Sep  5 10:14 100-empty_casks
 -rwxr-xr-x 1 root root  107 Sep  5 10:22 101-gifs
@@ -29,5 +27,7 @@ drwxr-xr-x 6 root root  141 Sep  5 06:23 ..
 -rwxr-xr-x 1 root root   36 Sep  5 13:54 8-cwd_state
 -rwxr-xr-x 1 root root   37 Sep  5 08:04 9-duplicate_last_line
 -rw-r--r-- 1 root root  216 Sep  5 08:05 iacta
--rw-r--r-- 1 root root    0 Sep  5 13:54 ls_cwd_content
+-rw-r--r-- 1 root root 1726 Sep  5 13:54 ls_cwd_content
 -rw-r--r-- 1 root root   24 Sep  5 06:24 README.md
+-rwxr--r-- 1 root root   31 Sep  5 14:00 victor
+-rw-r--r-- 1 root root    0 Sep  5 14:01 vikky_baby
